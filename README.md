@@ -6,7 +6,7 @@ A simple weather application that provides real-time weather updates and forecas
 2. Forecast: View weather forecasts for the coming days.
 3. Responsive Design: Works seamlessly on both desktop and mobile devices.
 <br>
--> Technologies Used
+-> Technologies Used <br>
 1. HTML: For structuring the content. <br>
 2. CSS: For styling the app. <br>
 3. JavaScript: For fetching weather data and handling user interactions. <br>
