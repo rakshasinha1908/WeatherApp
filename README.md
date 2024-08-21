@@ -7,7 +7,7 @@ A simple weather application that provides real-time weather updates and forecas
 3. Responsive Design: Works seamlessly on both desktop and mobile devices.
 <br>
 -> Technologies Used
-1. HTML: For structuring the content.
-2. CSS: For styling the app.
-3. JavaScript: For fetching weather data and handling user interactions.
+1. HTML: For structuring the content. <br>
+2. CSS: For styling the app. <br>
+3. JavaScript: For fetching weather data and handling user interactions. <br>
 4. Weather API: For retrieving weather information.
